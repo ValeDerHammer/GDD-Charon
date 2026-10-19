@@ -287,8 +287,7 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Neue Base erstellen": false
     }
   },
   "active": "67f26a61a73373d3",
