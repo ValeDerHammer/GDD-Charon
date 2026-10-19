@@ -114,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Deckblatt.md",
+                "file": "GDD/Farbschema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deckblatt"
+              "title": "Farbschema"
             }
           }
         ],
@@ -293,6 +293,7 @@
   },
   "active": "67f26a61a73373d3",
   "lastOpenFiles": [
+    "GDD/Deckblatt.md",
     "GDD---Charon",
     "GDD/Farbschema.md",
     "GDD/(G)Ui.md",
@@ -306,7 +307,6 @@
     "GDD/Mechanik",
     "Unbenannt.base",
     "GDD/Mission Statement/Zielgruppe",
-    "GDD/Deckblatt.md",
     "Wilkommen.md",
     "GDD/Mission Statement/Essenz.md",
     "Zeug/Erste Übersicht.md",
