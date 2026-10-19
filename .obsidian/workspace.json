@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "00d5b0977498b8c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "850a1fa7f34986fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde58443dc3d0e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Mission Statement/Essenz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Essenz"
+            }
+          },
+          {
+            "id": "3f12a4bbb91886bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Deckblatt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deckblatt"
+            }
+          },
+          {
+            "id": "78e12a18d5b4edc0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Zeug/Untitled.canvas",
+                "viewState": {
+                  "x": 8.5,
+                  "y": -883,
+                  "zoom": -2.338234571973422
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "14829896eb4e40d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Mechanik/Motivation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motivation"
+            }
+          },
+          {
+            "id": "48dd1ad2b7768def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Mechanik/Aktionen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aktionen"
+            }
+          },
+          {
+            "id": "762c820d3b30a2de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Lore/Story Beats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story Beats"
+            }
+          },
+          {
+            "id": "1ce14456ce4ca6fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/(G)Ui.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(G)Ui"
+            }
+          },
+          {
+            "id": "67f26a61a73373d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Deckblatt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deckblatt"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebf98d9d825a6558",
+    "type": "split",
+    "children": [
+      {
+        "id": "477c86a90c396cdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b88fb9fc60210c55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "dfccd9d15798f8a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "e53a5448f4f18719",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ca7565e4ff7a8d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cd0f19089f20f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26cc2bed058edc51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Willkommen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "43f3c94cca8dd66d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Willkommen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "da3597e51ab2ef30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2371cb9ac5186a38",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "e3950d6a644a45d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Willkommen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "67f26a61a73373d3",
+  "lastOpenFiles": [
+    "GDD---Charon",
+    "GDD/Farbschema.md",
+    "GDD/(G)Ui.md",
+    "Unbenannt",
+    "GDD/Lore/Story Beats.md",
+    "GDD/Lore",
+    "GDD/Mechanik/Aktionen.md",
+    "GDD/Mechanik/Motivation.md",
+    "Zeug/Untitled.canvas",
+    "GDD/Mission Statement/Zielgruppe/Zielgruppenbeschreibung.md",
+    "GDD/Mechanik",
+    "Unbenannt.base",
+    "GDD/Mission Statement/Zielgruppe",
+    "GDD/Deckblatt.md",
+    "Wilkommen.md",
+    "GDD/Mission Statement/Essenz.md",
+    "Zeug/Erste Übersicht.md",
+    "GDD/Mission Statement/Kurzfassung.md",
+    "GDD/Steuerung.md",
+    "Zeug/Ideen für Gameplay.md",
+    "Zeug/to Do.md",
+    "Zeug/Name.md",
+    "Zeug/Level Selection UI.md",
+    "GDD/Mission Statement/Win-Conditions.md",
+    "GDD/Basic Loop.canvas",
+    "GDD/Mission Statement",
+    "GDD",
+    "Zeug",
+    "Zeug/Combat System.md",
+    "Willkommen.md"
+  ]
+}

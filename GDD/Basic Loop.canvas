@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"8c8af63912b2b6ff","type":"text","text":"HUB:\n- man wählt Seele / Level aus","x":-256,"y":-161,"width":250,"height":121},
+		{"id":"88c08f177d34babb","type":"text","text":"Endboss besiegen","x":-265,"y":316,"width":250,"height":60},
+		{"id":"997f0f587ea9914e","type":"text","text":"Man geht durch Level\n- besiegt Gegner\n- schaltet neue Fähigkeiten frei","x":100,"y":60,"width":250,"height":141},
+		{"id":"7e36ff17e451e9a9","type":"text","text":"Level Beenden und  permanenten Buff bekommen","x":-587,"y":84,"width":250,"height":117}
+	],
+	"edges":[
+		{"id":"7d9dfe48f551d6e1","fromNode":"8c8af63912b2b6ff","fromSide":"right","toNode":"997f0f587ea9914e","toSide":"top"},
+		{"id":"3a14c43ba71d7837","fromNode":"997f0f587ea9914e","fromSide":"bottom","toNode":"88c08f177d34babb","toSide":"right"},
+		{"id":"1d3e46970f3c0a54","fromNode":"88c08f177d34babb","fromSide":"left","toNode":"7e36ff17e451e9a9","toSide":"bottom"},
+		{"id":"8e3a18e9c9db83ca","fromNode":"7e36ff17e451e9a9","fromSide":"top","toNode":"8c8af63912b2b6ff","toSide":"left"}
+	]
+}
