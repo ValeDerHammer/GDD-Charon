@@ -112,21 +112,60 @@
             "id": "67f26a61a73373d3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Zeug/Mind Map.canvas",
-                "viewState": {
-                  "x": 607.1945102787411,
-                  "y": -1358.7683510170482,
-                  "zoom": -1.8429908864429734
-                }
+                "file": "GDD/Mechanik/Aktionen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mind Map"
+              "icon": "lucide-file",
+              "title": "Aktionen"
+            }
+          },
+          {
+            "id": "8b258224eb8660b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Balancing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Balancing"
+            }
+          },
+          {
+            "id": "7aed98826cbbc8ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Tutuorial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutuorial"
+            }
+          },
+          {
+            "id": "dffc68f415b7fc20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Cutscenes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cutscenes"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -294,11 +333,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "67f26a61a73373d3",
+  "active": "b88fb9fc60210c55",
   "lastOpenFiles": [
+    "GDD/Tutuorial.md",
+    "GDD/Cutscenes.md",
+    "GDD/Balancing.md",
+    "GDD/Mechanik/Aktionen.md",
+    "Zeug/Mind Map.canvas",
     "Zeug/to Do.md",
     "Zeug/Name.md",
-    "Zeug/Mind Map.canvas",
     "GDD/Basic Loop.canvas",
     "GDD/(G)Ui.md",
     "GDD/Farbschema.md",
@@ -307,7 +350,6 @@
     "Unbenannt",
     "GDD/Lore/Story Beats.md",
     "GDD/Lore",
-    "GDD/Mechanik/Aktionen.md",
     "GDD/Mechanik/Motivation.md",
     "Zeug/Untitled.canvas",
     "GDD/Mission Statement/Zielgruppe/Zielgruppenbeschreibung.md",

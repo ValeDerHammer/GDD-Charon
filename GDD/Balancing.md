@@ -1,0 +1,3 @@
+Fortschritt
+Belohnung
+Strafe
