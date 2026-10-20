@@ -114,15 +114,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "GDD/Basic Loop.canvas",
+                "file": "Zeug/Mind Map.canvas",
                 "viewState": {
-                  "x": -118.5,
-                  "y": 107.5,
-                  "zoom": 0
+                  "x": 607.1945102787411,
+                  "y": -1358.7683510170482,
+                  "zoom": -1.8429908864429734
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Basic Loop"
+              "title": "Mind Map"
             }
           }
         ],
@@ -296,6 +296,10 @@
   },
   "active": "67f26a61a73373d3",
   "lastOpenFiles": [
+    "Zeug/to Do.md",
+    "Zeug/Name.md",
+    "Zeug/Mind Map.canvas",
+    "GDD/Basic Loop.canvas",
     "GDD/(G)Ui.md",
     "GDD/Farbschema.md",
     "GDD/Deckblatt.md",
@@ -316,11 +320,8 @@
     "GDD/Mission Statement/Kurzfassung.md",
     "GDD/Steuerung.md",
     "Zeug/Ideen für Gameplay.md",
-    "Zeug/to Do.md",
-    "Zeug/Name.md",
     "Zeug/Level Selection UI.md",
     "GDD/Mission Statement/Win-Conditions.md",
-    "GDD/Basic Loop.canvas",
     "GDD/Mission Statement",
     "GDD",
     "Zeug",
