@@ -112,17 +112,14 @@
             "id": "67f26a61a73373d3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Zeug/Mind Map.canvas",
-                "viewState": {
-                  "x": 607.1945102787411,
-                  "y": -1358.7683510170482,
-                  "zoom": -1.8429908864429734
-                }
+                "file": "GDD/Mechanik/Aktionen.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mind Map"
+              "icon": "lucide-file",
+              "title": "Aktionen"
             }
           }
         ],
@@ -296,23 +293,23 @@
   },
   "active": "67f26a61a73373d3",
   "lastOpenFiles": [
+    "GDD/Deckblatt.md",
+    "Unbenannt.base",
+    "GDD/Mechanik/Aktionen.md",
+    "Zeug/Mind Map.canvas",
     "Zeug/to Do.md",
     "Zeug/Name.md",
-    "Zeug/Mind Map.canvas",
     "GDD/Basic Loop.canvas",
     "GDD/(G)Ui.md",
     "GDD/Farbschema.md",
-    "GDD/Deckblatt.md",
     "GDD---Charon",
     "Unbenannt",
     "GDD/Lore/Story Beats.md",
     "GDD/Lore",
-    "GDD/Mechanik/Aktionen.md",
     "GDD/Mechanik/Motivation.md",
     "Zeug/Untitled.canvas",
     "GDD/Mission Statement/Zielgruppe/Zielgruppenbeschreibung.md",
     "GDD/Mechanik",
-    "Unbenannt.base",
     "GDD/Mission Statement/Zielgruppe",
     "Wilkommen.md",
     "GDD/Mission Statement/Essenz.md",
