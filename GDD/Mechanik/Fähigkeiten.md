@@ -1,4 +1,4 @@
-#### Obolus
+### Obolus
 - man erhält einen Obolus nachdem man den Endboss eines Levels besiegt hat
 - Man hat mehrere Slots für in die man den Obulus einsetzen kann
 	- Waffenslot
