@@ -1,0 +1,25 @@
+{
+  "pluginList": [
+    "gamedocsdev/gd8-obsidian-dist"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "gamedocsdev/gd8-obsidian-dist",
+      "version": "latest",
+      "tokenName": "gd8"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
