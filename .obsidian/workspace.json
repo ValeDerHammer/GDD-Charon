@@ -154,10 +154,14 @@
             "id": "f1dfac5dda592e94",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "GDD/0Deckblatt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0Deckblatt"
             }
           }
         ],
@@ -332,11 +336,16 @@
   },
   "active": "f1dfac5dda592e94",
   "lastOpenFiles": [
+    "GDD/Farbschema.md",
+    "Bilder/Pasted image 20261021092556.png",
+    "GDD/Mechanik/Balancing.md",
+    "GDD/Mechanik/Aktionen.md",
+    "GDD/Mechanik/Fähigkeiten.md",
+    "GDD/Mechanik/Leveldesign.md",
     "GDD/Tutuorial.md",
     "GDD/Steuerung.md",
     "GDD/GUi.md",
     "GDD/Gameloops.md",
-    "GDD/Farbschema.md",
     "GDD/Cutscenes.md",
     "GDD/0Deckblatt.md",
     "GDD/Mission Statement/Zielgruppenbeschreibung.md",
@@ -345,12 +354,7 @@
     "GDD/Mission Statement/Essenz.md",
     "GDD/Mechanik/Screens.md",
     "GDD/Mechanik/Motivation.md",
-    "GDD/Mechanik/Leveldesign.md",
-    "GDD/Mechanik/Fähigkeiten.md",
-    "GDD/Mechanik/Balancing.md",
-    "GDD/Mechanik/Aktionen.md",
     "Bilder",
-    "Bilder/Pasted image 20261021092556.png",
     "Zeug/Name.md",
     "Zeug/to Do.md",
     "Unbenannt.base",
@@ -369,7 +373,6 @@
     "GDD/Mission Statement",
     "GDD",
     "Zeug",
-    "Zeug/Combat System.md",
-    "Willkommen.md"
+    "Zeug/Combat System.md"
   ]
 }

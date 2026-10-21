@@ -1,5 +1,5 @@
 Authors:
-Benita, Fabian, Fynn, Valentin
+Benita, Fabian, Fynn, Tobias, Valentin
 
 
 ![[Essenz]]
