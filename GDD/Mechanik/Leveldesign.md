@@ -12,3 +12,6 @@
 	- Checkpoint
 		- nach Tot respawnt man an dem Bonfire wo zuletzt gerastet wurde
 - Obolus auswählen / kombinieren [[Fähigkeiten#Obolus]] 
+
+
+
