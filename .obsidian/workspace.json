@@ -173,12 +173,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Gameloops.md",
+                "file": "Zeug/Ideen für Gameplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameloops"
+              "title": "Ideen für Gameplay"
             }
           }
         ],
@@ -353,8 +353,11 @@
   },
   "active": "aba20a6e42e27ef2",
   "lastOpenFiles": [
-    "GDD/Basic Loop.canvas",
+    "Zeug/Erste Übersicht.md",
+    "Zeug/Combat System.md",
+    "GDD/Mission Statement/Kurzfassung.md",
     "GDD/Gameloops.md",
+    "GDD/Basic Loop.canvas",
     "GDD/Cutscenes.md",
     "GDD/Tutuorial.md",
     "GDD/Balancing.md",
@@ -377,8 +380,6 @@
     "GDD/Mission Statement/Zielgruppe",
     "Wilkommen.md",
     "GDD/Mission Statement/Essenz.md",
-    "Zeug/Erste Übersicht.md",
-    "GDD/Mission Statement/Kurzfassung.md",
     "GDD/Steuerung.md",
     "Zeug/Ideen für Gameplay.md",
     "Zeug/Level Selection UI.md",
@@ -386,7 +387,6 @@
     "GDD/Mission Statement",
     "GDD",
     "Zeug",
-    "Zeug/Combat System.md",
     "Willkommen.md"
   ]
 }
