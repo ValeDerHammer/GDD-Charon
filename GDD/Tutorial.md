@@ -1,0 +1,5 @@
+- Intuitive Tastenbelegungen
+- Tutorial zu spez. Kampf-Mechaniken: einmal am Anfang und danach nicht mehr anzeigen, falls Spieler möchte kann er (ab welchem Punkt? Immer? (würde Sinn ergeben) Nur nach Level?) revisiten
+- Interaktionen mit Hover-Buchstaben neben/unter Objekt anzeigen
+	- Im ganzen Game oder nur zu Beginn? 
+	- 

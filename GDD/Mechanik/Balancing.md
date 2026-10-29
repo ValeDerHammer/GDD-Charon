@@ -1,7 +1,9 @@
+
 ### Fortschritt:
-- neue Chechpoints in Level [[Leveldesign#Bonfire]]
-- neue Fähigkeiten geben mehr Möglichkeiten ein Level zu beenden und mit Problemen um zu gehen
+
+- Neue Checkpoints in Level [[Leveldesign#Bonfire]]
+- neue Fähigkeiten geben mehr Möglichkeiten ein Level zu beenden und mit Hindernissen umzugehen
 ### Belohnung:
-- neuer Obolus nach dem Endboss besiegt wurde
+- neuer Obolus, nachdem Endboss besiegt wurde
 ### Strafe:
-- reset bei Tod
+- Reset bei Tod
