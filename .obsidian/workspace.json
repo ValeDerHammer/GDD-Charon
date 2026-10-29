@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Farbschema.md",
+                "file": "GDD/Mechanik/Fähigkeiten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Farbschema"
+              "title": "Fähigkeiten"
             }
           }
         ],
@@ -207,24 +207,25 @@
   },
   "active": "f6718214df5e5a99",
   "lastOpenFiles": [
-    "GDD/Mechanik/Aktionen.md",
-    "GDD/Mechanik/Fähigkeiten.md",
-    "GDD/Mechanik/Balancing.md",
-    "GDD/0Deckblatt.md",
-    "GDD/Farbschema.md",
     "GDD/Mechanik/Leveldesign.md",
-    "GDD/Tutuorial.md",
     "GDD/Mechanik/Motivation.md",
     "GDD/Mechanik/Screens.md",
-    "GDD/Steuerung.md",
+    "GDD/Mission Statement/Kurzfassung.md",
+    "GDD/0Deckblatt.md",
+    "GDD/Farbschema.md",
     "GDD/GUi.md",
     "GDD/Gameloops.md",
-    "GDD/Mission Statement/Essenz.md",
+    "GDD/Tutuorial.md",
+    "GDD/Steuerung.md",
+    "GDD/Lore/Story Beats.md",
+    "GDD/Mechanik/Aktionen.md",
+    "GDD/Mechanik/Fähigkeiten.md",
+    "GDD/Mission Statement/Zielgruppenbeschreibung.md",
     "GDD/Mission Statement/Win-Conditions.md",
-    "GDD/Mission Statement/Kurzfassung.md",
+    "GDD/Mission Statement/Essenz.md",
+    "GDD/Mechanik/Balancing.md",
     "Bilder/Pasted image 20261021092556.png",
     "GDD/Cutscenes.md",
-    "GDD/Mission Statement/Zielgruppenbeschreibung.md",
     "Bilder",
     "Zeug/Name.md",
     "Zeug/to Do.md",
@@ -232,7 +233,6 @@
     "GDD/Basic Loop.canvas",
     "Zeug/Mind Map.canvas",
     "GDD---Charon",
-    "GDD/Lore/Story Beats.md",
     "GDD/Lore",
     "Zeug/Untitled.canvas",
     "GDD/Mechanik",
