@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3174c7e196736cda","type":"text","text":"Main Menu","x":-179,"y":-224,"width":250,"height":60},
+		{"id":"e9c6428b38bbb0c8","type":"text","text":"Beenden","x":127,"y":-54,"width":250,"height":60},
+		{"id":"4395698dc3d8e3d9","type":"text","text":"Start","x":-400,"y":-54,"width":250,"height":60},
+		{"id":"9eb737a927b0b686","type":"text","text":"Seelen auswahl","x":-519,"y":149,"width":250,"height":60},
+		{"id":"5e4955ffd89eca18","type":"text","text":"Seele + Fähigkeiten werden beschrieben","x":-542,"y":324,"width":250,"height":55},
+		{"id":"cf98c33d75e25597","type":"text","text":"im Dungeon","x":-580,"y":660,"width":250,"height":60},
+		{"id":"bfc5943ddfc348ae","x":-560,"y":480,"width":250,"height":50,"type":"text","text":"Obolus auswählen"}
+	],
+	"edges":[
+		{"id":"72f90469459547b0","fromNode":"3174c7e196736cda","fromSide":"bottom","toNode":"4395698dc3d8e3d9","toSide":"top"},
+		{"id":"e16dd6d186d9a1f0","fromNode":"3174c7e196736cda","fromSide":"bottom","toNode":"e9c6428b38bbb0c8","toSide":"top"},
+		{"id":"9bb6cce1b6120190","fromNode":"4395698dc3d8e3d9","fromSide":"bottom","toNode":"9eb737a927b0b686","toSide":"top"},
+		{"id":"fedd5baa72bb3905","fromNode":"9eb737a927b0b686","fromSide":"bottom","toNode":"5e4955ffd89eca18","toSide":"top"},
+		{"id":"08c3426b0c6cdc8f","fromNode":"bfc5943ddfc348ae","fromSide":"bottom","toNode":"cf98c33d75e25597","toSide":"top"},
+		{"id":"c44956f3388c2f0c","fromNode":"5e4955ffd89eca18","fromSide":"bottom","toNode":"bfc5943ddfc348ae","toSide":"top"}
+	]
+}

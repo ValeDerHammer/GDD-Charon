@@ -8,181 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dde58443dc3d0e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Mission Statement/Essenz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essenz"
-            }
-          },
-          {
-            "id": "3f12a4bbb91886bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Deckblatt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deckblatt"
-            }
-          },
-          {
-            "id": "78e12a18d5b4edc0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Zeug/Untitled.canvas",
-                "viewState": {
-                  "x": 8.5,
-                  "y": -883,
-                  "zoom": -2.338234571973422
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "14829896eb4e40d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Mechanik/Motivation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Motivation"
-            }
-          },
-          {
-            "id": "48dd1ad2b7768def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Mechanik/Aktionen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aktionen"
-            }
-          },
-          {
-            "id": "762c820d3b30a2de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Lore/Story Beats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Story Beats"
-            }
-          },
-          {
-            "id": "1ce14456ce4ca6fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/(G)Ui.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(G)Ui"
-            }
-          },
-          {
-            "id": "67f26a61a73373d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Mechanik/Aktionen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aktionen"
-            }
-          },
-          {
-            "id": "8b258224eb8660b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Balancing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Balancing"
-            }
-          },
-          {
-            "id": "7aed98826cbbc8ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Tutuorial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tutuorial"
-            }
-          },
-          {
-            "id": "dffc68f415b7fc20",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GDD/Basic Loop.canvas",
-                "viewState": {
-                  "x": -118.5,
-                  "y": 107.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Basic Loop"
-            }
-          },
-          {
             "id": "aba20a6e42e27ef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeug/Ideen für Gameplay.md",
+                "file": "GDD/Mechanik/Fähigkeiten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideen für Gameplay"
+              "title": "Fähigkeiten"
+            }
+          },
+          {
+            "id": "b4a003200ce95599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seelen & Obolus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seelen & Obolus"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -351,42 +205,45 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "aba20a6e42e27ef2",
+  "active": "b4a003200ce95599",
   "lastOpenFiles": [
-    "Zeug/Erste Übersicht.md",
-    "Zeug/Combat System.md",
-    "GDD/Mission Statement/Kurzfassung.md",
+    "Unbenannt.canvas",
+    "GDD/Mechanik/Screens.md",
+    "Seelen & Obolus.md",
+    "GDD/Mechanik/Fähigkeiten.md",
     "GDD/Gameloops.md",
-    "GDD/Basic Loop.canvas",
-    "GDD/Cutscenes.md",
-    "GDD/Tutuorial.md",
-    "GDD/Balancing.md",
-    "GDD/Mechanik/Aktionen.md",
-    "Zeug/Mind Map.canvas",
     "Zeug/to Do.md",
     "Zeug/Name.md",
-    "GDD/(G)Ui.md",
+    "Zeug/Mind Map.canvas",
+    "Zeug/Level Selection UI.md",
+    "Zeug/Ideen für Gameplay.md",
+    "Zeug/Combat System.md",
+    "GDD/Steuerung.md",
+    "GDD/GUi.md",
     "GDD/Farbschema.md",
-    "GDD/Deckblatt.md",
+    "GDD/Cutscenes.md",
+    "GDD/0Deckblatt.md",
+    "GDD/Mission Statement/Zielgruppenbeschreibung.md",
+    "GDD/Mission Statement/Win-Conditions.md",
+    "GDD/Mission Statement/Essenz.md",
+    "GDD/Mechanik/Motivation.md",
+    "GDD/Mechanik/Leveldesign.md",
+    "GDD/Tutuorial.md",
+    "GDD/Mechanik/Aktionen.md",
+    "GDD/Lore/Story Beats.md",
+    "GDD/Mechanik/Balancing.md",
+    "Zeug/Erste Übersicht.md",
+    "GDD/Mission Statement/Kurzfassung.md",
+    "GDD/Basic Loop.canvas",
     "GDD---Charon",
     "Unbenannt",
-    "GDD/Lore/Story Beats.md",
     "GDD/Lore",
-    "GDD/Mechanik/Motivation.md",
     "Zeug/Untitled.canvas",
-    "GDD/Mission Statement/Zielgruppe/Zielgruppenbeschreibung.md",
     "GDD/Mechanik",
     "Unbenannt.base",
     "GDD/Mission Statement/Zielgruppe",
-    "Wilkommen.md",
-    "GDD/Mission Statement/Essenz.md",
-    "GDD/Steuerung.md",
-    "Zeug/Ideen für Gameplay.md",
-    "Zeug/Level Selection UI.md",
-    "GDD/Mission Statement/Win-Conditions.md",
     "GDD/Mission Statement",
     "GDD",
-    "Zeug",
-    "Willkommen.md"
+    "Zeug"
   ]
 }
