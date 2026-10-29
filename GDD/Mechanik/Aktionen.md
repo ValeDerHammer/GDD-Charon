@@ -1,7 +1,18 @@
 
 
+### Elementare Aktionen
+- Laufen
+- Angreifen
+- Ausweichen
+- Fähigkeit verwenden
+- an Bonfire rasten
+- Obolus auswählen
+- Level auswählen
 
-
-Elementare Aktionen
-
-Strategische Aktionen
+### Strategische Aktionen
+- Gegner bekämpfen
+	- Nakampf
+	- Fernkampf
+	- Alle Gegner auf einmal Angreifen
+	- Einzelne Gegner vorsichtig Ausschalten
+- Gegner in Falle locken
