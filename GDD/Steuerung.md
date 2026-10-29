@@ -15,5 +15,6 @@
 | R          | Kreis       | B          | Heilen                                            |
 | tab        | Dreieck     | Y          | Seelenübersich / Karte                            |
 | ==🔴1-4==  |             |            | ==🔴maybe Verbrauchsgegebstände wie Feuerbomben== |
+|            |             |            |                                                   |
 
 ==🔴Eventuell später==
