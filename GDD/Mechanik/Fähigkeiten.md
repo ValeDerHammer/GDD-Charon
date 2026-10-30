@@ -6,8 +6,6 @@
 - **Sekundär**: passiver Buff (durch Obolus)
 - Cooldown in Sekunden 
 
-- (nicht visuell)??
-
 ### Seele - Primär
 
 - Bekommt Spieler zugewiesen, bevor man den Dungeon betritt 
@@ -24,39 +22,53 @@
 ---
 ## Meine Fragen/Themen zu discussen
 
+**Seele:** 
+
 - Seelen Angriffe Passieren passiv? Wovon abhängig? (Stichwort: Bindung)
+- Pro indiv. Seele gleicher Base-Angriff (evtl. für später)
+- Verleiht Seele Charon Sek. Fähigkeiten UND macht zusätzlich eigen Angriffe?
 
+- Alleinstellungsmerkmal als Seelen-Chauffer für den Bühling bildet sich wo genau wie ab? 
+- Beschützeraspekt streichen - eher Hilfe durch side along besiegen der Instanz gewordenen Struggle der Seele --- WIE kommunizieren wir das ohne viel Dialog/Story? 
+- Gehört Unbenannt zu Zeug dazu? Seelen- und coin- Auswahl nicht so bevor Game überhaupt gestartet wurde
+	- Einführung in Lore/Story dahinter bevor Obolus Coins auswählbar sind -> Text zu Beginn des Games?? Hätte nämlich gesagt wir haben in unserem Test-Level für den Bühling schon 2 Obolus Coins zur Verfügung, anders als wenn man das "orignale" game beginnt
+	- Prozess des Levels: Wie und wo bekomme ich die Seele? (+ eigen Vorstellung geadded)
+	
+- Akzentfarbe im Level je nach Seele rauslassen 
+
+- Belohnung/Motivation durchs Level FEHLT durch Erreichen/Erhalten -> Evtl. Bindung als Seelen-Shards, die man dann beim Lebensbrunnen für Rogue Like Skill-Level Ups der Primären + Sekundären F ausgeben kann
 - Mögliche Buffs von Attribut: Bindung abhängig
-- Bindung = 
-
-- Keine im Level Belohnung!!! -> Evtl. Bindung als Seelen-Shards
-- DMG Zahlen sichtbar on screen?
-- DMG Berechnungen??!! + Welche Arten von DMG? 
-- Belohnung/Motivation durchs Game fehlt durch Erreichen/Erhalten
-- Health Bar von jedem Gegner anzeigen (als Bar oder mby als 3 Lebenspunkte)
-- Nicht in Räume zurück gehen
-- Bindung einbauen!! Distinctive Feature -> damit Seele her/wegziehen
+- Bindung = Vertrauen der Seele in Charon
+-  Bindung einbauen!! Distinctive Feature -> damit Seele her/wegziehen
 - Wie depletet/sammelt sich Bindung? 
-- kann man durch Räume zurückgehen
 
-- Dodge als Dash umfunktionieren (weniger Animation, 2 in 1 durch Sprinten + Dodgen)
-- Y Controller Belegung
-- Controller Kreuz zur Verfügung (zB für Heiltränke!)
-- Cutscenes rausnehmen
+**Lebensbrunnen:**
 
 - Soll Lebensbrunnen eigenen Raum bekommen oder reicht secluded Platz in Raum mit besiegten Gegnern? -> Checkpoint bei Tod, wäre also als eigener Raum
 - Klarstellen, wie der Lebensbrunnen = Bonfire aussehen wird
+- Heiltränke überhaupt nötig? + Brauchen Mesh, Textur, Plop-Up-Animation und Character-Animation
 - Bonfire Interaktion besprechen: ich dachte man heilt sich? Separat Gegnerwellen?
 - Anmiation: Seele kreist um Brunnen, wenn Spieler Raum betritt (visueller Hinweis)
-- Reicht nicht ein Leuchten?
-- Akzentfarbe im Level je nach Seele rauslassen 
-- Gehört Unbenannt zu Zeug dazu? Auswahl auf keinen Fall so bevor Game überhaupt gestartet wurde
-- Prozess des Levels: Wie und wo bekomme ich die Seele? (+ eigen Vorstellung geadded)
-- Beschützeraspekt streichen - eher Hilfe durch side along besiegen der Instanz gewordenen Struggle der Seele --- WIE kommunizieren wir das ohne viel Dialog/Story? 
+	- Reicht nicht ein Leuchten?
+
+**Sonstiges:**
+
+- DMG Zahlen sichtbar on screen?
+- DMG Berechnungen??!! + Welche Arten von DMG? 
+- Skill Cooldown visuell/nicht?
+- Health Bar von jedem Gegner anzeigen (als Bar oder mby als 3 Lebenspunkte)
+	- Endboss inwiefern verändert
+- Nicht in Räume zurück gehen
+- Dodge als Dash umfunktionieren (weniger Animation, 2 in 1 durch Sprinten + Dodgen)
+- Y Controller Belegung
+- Controller Kreuz zur Verfügung (zB für Heiltränke!)
+- Cutscenes rausnehmen / ersetzen durch Einführung zu Beginn
+
+---
 
 ### Obolus - Sekundär
 
-- Endboss-Loot 
+- Als Endboss-Loot 
 -  Verleiht Sekundäre Fähigkeit (Buff)
 - **Festgelegt auf:** 
 
