@@ -11,3 +11,10 @@ Im Level bewegt sich der Spieler von Checkpoint. Der nächste Checkpoint motivie
 	- neue Builds testen
 	- neue Fähigkeiten testen
 	- neue Fähigkeiten finden
+
+
+## Bindung
+
+Motivation, die durchs Level trägt -> gut Spielen + besser werden durch zusätzlichen Buff
+[[Fähigkeiten#Bindung]]
+

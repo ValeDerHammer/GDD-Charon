@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aba20a6e42e27ef2",
+            "id": "b4a003200ce95599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Mechanik/Fähigkeiten.md",
+                "file": "GDD/Mechanik/Leveldesign.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fähigkeiten"
+              "title": "Leveldesign"
             }
           },
           {
-            "id": "b4a003200ce95599",
+            "id": "083a1eb6c448ca6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -205,12 +205,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b4a003200ce95599",
+  "active": "083a1eb6c448ca6a",
   "lastOpenFiles": [
-    "GDD/Mechanik/Motivation.md",
-    "GDD/Mechanik/Screens.md",
     "GDD/Mechanik/Leveldesign.md",
     "GDD/Mechanik/Fähigkeiten.md",
+    "GDD/Mechanik/Motivation.md",
+    "GDD/Mechanik/Balancing.md",
+    "Untitled.base",
+    "GDD/Mechanik/Screens.md",
     "GDD/Gameloops.md",
     "GDD/Farbschema.md",
     "GDD/Cutscenes.md",
@@ -225,7 +227,6 @@
     "Unbenannt.canvas",
     "Pasted image 20261029222230.png",
     "Pasted image 20261029222635.png",
-    "GDD/Mechanik/Balancing.md",
     "GDD/Mechanik/Aktionen.md",
     "GDD/Lore/Story Beats.md",
     "Zeug/Combat System.md",
