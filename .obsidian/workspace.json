@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "00d5b0977498b8c0",
+    "id": "02a2cf9e659cc4e9",
     "type": "split",
     "children": [
       {
-        "id": "850a1fa7f34986fa",
+        "id": "fdef6c8df7e5111b",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a003200ce95599",
+            "id": "9c42244e9bd6d87d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Mechanik/Leveldesign.md",
+                "file": "GDD/Mechanik/Screens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leveldesign"
-            }
-          },
-          {
-            "id": "083a1eb6c448ca6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Mechanik/Leveldesign.md",
-                "file": "GDD/Mechanik/Fähigkeiten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leveldesign"
-            }
-          },
-          {
-            "id": "e0b0233950ffdccb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Hud.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Hud"
-              "title": "Fähigkeiten"
+              "title": "Screens"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ebf98d9d825a6558",
+    "id": "27305fceb7ebe333",
     "type": "split",
     "children": [
       {
-        "id": "477c86a90c396cdf",
+        "id": "6c00b86e7700a7b9",
         "type": "tabs",
         "children": [
           {
-            "id": "b88fb9fc60210c55",
+            "id": "5ffe7b429a896618",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,11 +46,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
-            "id": "dfccd9d15798f8a7",
+            "id": "5dfe96c9ebb01608",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +67,7 @@
             }
           },
           {
-            "id": "e53a5448f4f18719",
+            "id": "1e3a83fd0708d171",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -115,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "2ca7565e4ff7a8d7",
+    "id": "bfe4ab012d234fcd",
     "type": "split",
     "children": [
       {
-        "id": "4cd0f19089f20f24",
+        "id": "9f33497cc34985cd",
         "type": "tabs",
         "children": [
           {
-            "id": "26cc2bed058edc51",
+            "id": "f02c9f825e72d200",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Willkommen.md",
+                "file": "GDD/Mechanik/Screens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,12 +113,12 @@
             }
           },
           {
-            "id": "43f3c94cca8dd66d",
+            "id": "01caf44de3dcbb81",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Willkommen.md",
+                "file": "GDD/Mechanik/Screens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +127,7 @@
             }
           },
           {
-            "id": "da3597e51ab2ef30",
+            "id": "9ca18fb1f0dd0c7d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,7 +142,7 @@
             }
           },
           {
-            "id": "2371cb9ac5186a38",
+            "id": "870c8c933a8f9a7a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -185,12 +156,12 @@
             }
           },
           {
-            "id": "e3950d6a644a45d5",
+            "id": "2be804398771ae2d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Willkommen.md",
+                "file": "GDD/Mechanik/Screens.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,73 +179,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e0b0233950ffdccb",
+  "active": "9c42244e9bd6d87d",
   "lastOpenFiles": [
-    "GDD/Mechanik/Screens.md",
+    "GDD/Mechanik/Fähigkeiten.md",
     "Excalidraw/Hud.md",
-    "Unbenannt.canvas",
-    "GDD/Mechanik/Leveldesign.md",
-    "Excalidraw",
-  "active": "083a1eb6c448ca6a",
-  "lastOpenFiles": [
-    "GDD/Mechanik/Leveldesign.md",
-    "GDD/Mechanik/Fähigkeiten.md",
-    "GDD/Mechanik/Motivation.md",
     "GDD/Mechanik/Balancing.md",
-    "Untitled.base",
-    "GDD/Mechanik/Screens.md",
-    "GDD/Gameloops.md",
-    "GDD/Farbschema.md",
-    "GDD/Cutscenes.md",
-    "GDD/0Deckblatt.md",
-    "GDD/Steuerung.md",
-    "GDD/Tutorial.md",
-    "GDD/Mission Statement/Essenz.md",
-    "GDD/Mission Statement/Kurzfassung.md",
-    "GDD/Mission Statement/Zielgruppenbeschreibung.md",
-    "GDD/Mission Statement/Win-Conditions.md",
-    "GDD/GUi.md",
-    "Unbenannt.canvas",
-    "Pasted image 20261029222230.png",
-    "Pasted image 20261029222635.png",
-    "GDD/Mechanik/Aktionen.md",
-    "GDD/Mechanik/Fähigkeiten.md",
-    "GDD/Steuerung.md",
-    "GDD/Cutscenes.md",
-    "GDD/Mission Statement/Essenz.md",
-    "GDD/Mechanik/Motivation.md",
-    "GDD/Lore/Story Beats.md",
-    "Zeug/Combat System.md",
-    "Seelen & Obolus.md",
-    "GDD/Tutuorial.md",
-    "GDD/GUi.md",
-    "GDD/Gameloops.md",
-    "Zeug/to Do.md",
-    "Zeug/Level Selection UI.md",
-    "Zeug/Erste Übersicht.md",
-    "Zeug/Name.md",
-    "Zeug/Mind Map.canvas",
-    "GDD/Basic Loop.canvas",
-    "GDD---Charon",
-    "Unbenannt",
-    "GDD/Lore",
-    "Zeug/Untitled.canvas",
-    "GDD/Mechanik",
-    "Unbenannt.base",
-    "GDD/Mission Statement/Zielgruppe",
-    "GDD/Mission Statement",
-    "GDD",
-    "Zeug"
+    "GDD/Mechanik/Aktionen.md"
   ]
 }
