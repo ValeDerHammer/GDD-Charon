@@ -52,7 +52,7 @@
 	- am Bonfire kann man Seelen / Waffen Wechseln und Kombinieren
 
 ### Seelen
-- ==🟢unique Selling point von Game==
+- ==🟢Unique Selling point von Game==
 - Obolus:
 	- in der Mythologie bekommt der Fuhrmann eine Münze als Bezahlung um die Seelen ins Totenreich zu bringen - Wenn man den Endboss besiegt hat kann die Seele ins Totenreich gebracht werden und gibt der Spieler ihre Münze, durch diese Münze Bekommt man dann die Fähigkeiten
 - verleihen dem Spieler neue Fähigkeiten oder verbessern Angriffe
