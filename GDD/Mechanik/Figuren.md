@@ -14,12 +14,12 @@
 
 ## Spieler Stats
 
-- **Visuell**: Alles in einer Ecke
+- **Visuell**: Alles kompakt und gut sichtbar in einer linken Ecke, generell keine Zahlen sondern visuell arbeiten. Muss alles Depleten und adden können
 	- Leben (Rot, fetter Health-Bar)
-		- Verfügbare Heiltränke
-	- Ausdauer
-	- Bindungs-Leiste
-	- Visuell: 2 Skill Cooldowns als Kreise für Obolus und Seele
+		- Verfügbare Heiltränke sichtbar als kleine Symbole über Lebensleiste, max. 3 möglich
+	- Ausdauer (mit kleinen und noch kleineren Strichen unterteilen)
+	- Bindungs-Leiste als großes Icon (Symbol: Kreis, Runde Phiole, whatever) neben Health- und Ausdauer Bars, füllt sich bei bestimmten Aktionen
+	- Visuell: 2 Skill Cooldowns für Obolus und Seele, am besten als Kreise (farblich auf Seele und Obolus abgestimmt)
 
 # Seele
 
@@ -46,7 +46,7 @@ uzmzumzm
 ## Gegner-Stats
 
 - Visuell: Leben
-	- Normale Gegner: Schlichte HP-Leiste
+	- Normale Gegner: Schlichte HP-Leiste unter/über Figur
 	- Endboss: Große HP Leiste mittig im Screen oben
 - DMG 
 	- ~~DMG Zahlen sichtbar on screen~~
@@ -58,11 +58,12 @@ uzmzumzm
 - Einordnung in Lore: 
 ### Geist mit großen Händen
 
+Charger mit Aufladen
 ### Gegner 3
-
-### Gitterbauch (später: Möglichkeit Seelenklau) / Endboss
 
 ### Skelett
 
 - Bestehendes Asset nutzen (von Gamedev.tv, Designer: Grant Abbit)
-### Endboss
+### Endboss: Gitterbauch 
+
+(später: Möglichkeit Seelenklau)

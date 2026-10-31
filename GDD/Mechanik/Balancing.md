@@ -1,5 +1,4 @@
 
-
 # Combat Pacing
 
 ## Kampf-Raumdesign
@@ -7,6 +6,7 @@
 ==🟡[[Leveldesign#Kampfraum]] Gegner Spawn verhalten, wie viele pro Raum etc.==
 ==🟡Spawnen in Wellen - wenn ja, wie (visueller Hinweis vor Spawnen?) und wo spawnen sie?==
 
+Gegner: Feste Position, keine neuen Gegner kommen dazu
 ## Angriffspatterns
 
 Laufgeschwindigkeit von Spielern und Gegnern

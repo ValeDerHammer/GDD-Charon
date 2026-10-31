@@ -14,7 +14,7 @@
 - **Möglichkeiten:** 
 	- 
 
-==🟡Farbzuweisung möglich: Obolus vs Seele, da beide aus Laterne kommen: Abgrenzung nötig! Vor allem wenn nur Seele zu Bindung beiträgt!!==
+==🟡Farbzuweisung möglich: Obolus vs Seele, da beide aus Laterne kommen: Abgrenzung nötig! Vor allem wenn nur Seele zu Bindung beiträgt!! Bsp: Obolus lila, Seele blau==
 
 ---
 	- Projektil
@@ -35,8 +35,8 @@
 - Wird aktiv bei Erreichen gewissen Schwellenwerts 
 	-  **Visualisiert** durch: Stat-Leiste brennt bzw. Schwert brennt/leuchtet
 - **Fällt sofort auf 0**, wenn man Schaden bekommt ==🟡(// Änderbar auf Sinkung)==
-- ==🟡**Erhalten durch**: Schaden, Kills mit aktiver Seelen-Fähigkeit==
-	- **Visualisiert** durch fallende Einzusammelnde Kügelchen (blaues Aufleuchten), automatische Magnet-Mechanik die sie zu Charon zieht 
+- **Erhalten durch**: Schaden mit aktiver Seelen-Fähigkeit
+	- // **Visualisiert** durch fallende Einzusammelnde Kügelchen (blaues Aufleuchten), automatische Magnet-Mechanik die sie zu Charon zieht 
 - Gibt 10%+ Schaden auf Nahkampf
 - ==🔴3 Stufen (Balancing)==
 - ==🔴Möglichkeit, damit Seele für DMG wegzustoßen und wieder für DMG herzuziehen==
@@ -49,7 +49,7 @@
 - Fürs Erste: Schaden ist Schaden, keine verschiedenen Arten/Kombinationen
 ### Heilung
 
-- Heiltrank 
+- Heiltrank heilt Hälfte, max. 3 (heilen dann halt mehr)
 - Muss für Heilung Stehenbleiben, geht nicht wenn man angreift oder angegriffen wird
 ### Spieler-Ausdauer
 

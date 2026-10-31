@@ -1,6 +1,6 @@
 - Linear durchgängiges Level, von A nach B
 - Ein Level, das mit verschiedenen Skill-Kombis mind. 2x spielbar ist
-- Aufbau: 3 Räume, 1 Brunnen, 2 Räume, Endboss
+- Aufbau: 2 Räume, 1 Brunnen, 1 Raum, Endboss
 - Räume OHNE zurückgehen
 
 - ==🔴Ursprünglich 3 Teile eines Levels: Swamp, kompletter Dungeon, Endboss ODER pro Seele wird es anders angehaucht, heißt man hat Seelen-Level im Swamp oder im Duengeon etc.==
@@ -9,8 +9,8 @@
 - Startmenü [[Screens#Startmenü]]
 - Einführung in Lore/Story
 - Seelenzuweisung in bereits interaktiver Umgebung
-- Betreten des Levels
 - Wahl der Oboli-Coins (auf 2 beschränkt)
+- Betreten des Levels
 - Kampf-Eintritt
 - 3 Räume Kampf
 - Lebensbrunnen 
@@ -31,20 +31,28 @@
 
 - Kleine Blender-Szene, grey-tinged, Charon in einem Boot im Wasser, viel Stein, düster mit einem Steg und einer Statue/Geformtem Steinfelsen (menschenähnlich), von der die Seele zum Spieler fliegt, wenn er interagiert (Pro Seele ein Steg + 1 Statue)
 
-# Im Level: Raumaufteilung
+### Wahl der Obolus-Coins
 
-- **Raumübergang & Aufbau**: visuelle Abgrenzung, aber gesamtes Level mit allen Raum-Szenen soll falls möglich bereits geladen sein 
-## Wahl der Obolus-Coins
+Obolus Auswahl bei Seelen-Auswahl mit Kurzbeschreibgung
 
 - Was als erstes im Level passiert: Bereits innerhalb, aber vor dem Kampf 
 - Interaktion mit Objekt (bsp. Schrein-ähnlich), bevor Kampf-Area betreten wird
 - **Visueller Hinweis** auf Interaktion:
+
+# Im Level: Raumaufteilung
+
+- **Raumübergang & Aufbau**: visuelle Abgrenzung, aber gesamtes Level mit allen Raum-Szenen soll falls möglich bereits geladen sein 
+
 ## Kampfraum
 
 - Raum-Individualisierung: Bestehende Assets neu kombinieren
 - ODER von Sumpf immer mehr steigern auf verfallene griechische Struktur
-- Hindernisse einbauen
+- Hindernisse, Abgrenzungen einbauen
 - Gegner-Zusamenstellung, wie viele, Spawn-verhalten und [[Figuren#Gegnertypen]]
+
+## // Bossfight
+
+- Pantheon
 ## Pauseraum: Lebensbrunnen
 
 - Safe-Checkpoint im Level

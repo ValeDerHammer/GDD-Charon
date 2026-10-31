@@ -10,6 +10,10 @@ festlegen:  visuelle Erscheinung von Charon zur Vermeidung von Stilbruch oder gr
 - Wie viele Oboli zu Beginn? Wie viele Slots? 
 	- Hätte nämlich gesagt wir haben in unserem Test-Level für den Bühling schon 2 Obolus Coins zur Verfügung, anders als wenn man das "orignale" game beginnt, da muss man sie sich erarbeiten
 
+1 Slot, 2 Obuli, 2 Seelen
+
+
+
 - **Alleinstellungsmerkmal als Seelen-Chauffer für den Bühling bildet sich wo genau wie ab?** 
 - Beschützeraspekt streichen - eher Hilfe durch side along besiegen der Instanz gewordenen Struggle der Seele --- WIE kommunizieren wir das ohne viel Dialog/Story? 
 

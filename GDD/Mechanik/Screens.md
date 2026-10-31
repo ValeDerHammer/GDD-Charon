@@ -17,3 +17,5 @@
 - Todes-Screen 
 - Win Screen (Erhalt von Obolus, Dank der Seele)
 - Generelles Game-Overlay siehe [[Figuren## Spieler Stats]] und [[Figuren#Gegner-Stats]]
+
+- Platzierung Game Overlay frei wählnar

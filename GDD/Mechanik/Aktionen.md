@@ -8,8 +8,8 @@
 - Fähigkeit 2 verwenden
 - Interaktion mit Objekten
 	- Lebensbrunnen
-	- Obolus-Auswahl 
-	- Level-Auswahl (Steg-Statuen)
+	- Level-Auswahl (Steg-Statuen) / Obolus-Auswahl 
+
 ## Strategische Aktionen
 
 - Gegner bekämpfen
