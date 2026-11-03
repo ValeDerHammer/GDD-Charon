@@ -1,5 +1,6 @@
-- Intuitive Tastenbelegungen
+- Als erster kleiner Vor-Raum für [[Leveldesign]]
+- Leichte Anmoderation durch [[Figuren#Der Tod]], wie in [[Leveldesign#Einführung in Lore/Story/Cutscene]]
+- **Bereits intuitive Tastenbelegungen wählen**
 - Tutorial zu spez. Kampf-Mechaniken: einmal am Anfang und danach nicht mehr anzeigen, falls Spieler möchte kann er (ab welchem Punkt? Immer? (würde Sinn ergeben) Nur nach Level?) revisiten
-- Interaktionen mit Hover-Buchstaben neben/unter Objekt anzeigen
-	- Im ganzen Game oder nur zu Beginn? 
-	- 
+- **Interaktionen** mit Hover-Buchstaben (Tastatur/Controller) neben/unter Objekt anzeigen
+	- Im ganzen Game

@@ -1,22 +1,21 @@
 
-
-### Elementare Aktionen
+## Elementare Aktionen
 
 - Laufen
 - Angreifen
-- Dodge bzw. Dash -> Ausweichen + Sprinten
+- Dash -> Ausweichen + Sprinten
 - Fähigkeit 1 verwenden
 - Fähigkeit 2 verwenden
-- An Bonfire rasten
-- Obolus auswählen
-- Level auswählen
+- Interaktion mit Objekten
+	- Lebensbrunnen
+	- Level-Auswahl (Steg-Statuen) / Obolus-Auswahl 
 
-### Strategische Aktionen
+## Strategische Aktionen
 
 - Gegner bekämpfen
 	- Nahkampf
 	- Fernkampf
 	- Alle Gegner auf einmal Angreifen
-	- Einzelne Gegner vorsichtig Ausschalten
-- Gegner in Falle locken
+	- Einzelne Gegner vorsichtig Ausschalten durch Nutzung der Raumtrennung & Gegnerverhalten
+- ==🔴Gegner in Falle locken==
 
