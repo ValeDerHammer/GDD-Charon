@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Besprechen.md",
+                "file": "GDD/Mechanik/Screens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Besprechen"
+              "title": "Screens"
             }
           },
           {
@@ -47,7 +47,8 @@
               "title": "0 Zielsetzung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/Besprechen.md",
+                "file": "GDD/Mechanik/Screens.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Gliederung"
             }
           }
         ],
@@ -219,9 +220,9 @@
   },
   "active": "2a9cc16fca080941",
   "lastOpenFiles": [
+    "GDD/Besprechen.md",
     "GDD/Mechanik/Leveldesign.md",
     "GDD/Mechanik/Motivation.md",
-    "GDD/Besprechen.md",
     "GDD/Mechanik/Figuren.md",
     "GDD/Mechanik/Fähigkeiten.md",
     "GDD/Mechanik/Screens.md",
