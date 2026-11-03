@@ -1,22 +1,34 @@
 {
   "main": {
-    "id": "02a2cf9e659cc4e9",
+    "id": "00d5b0977498b8c0",
     "type": "split",
     "children": [
       {
-        "id": "fdef6c8df7e5111b",
+        "id": "850a1fa7f34986fa",
         "type": "tabs",
         "children": [
           {
             "id": "7f52240ed7eb75c6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Hud.md"
+                "file": "GDD/To Do Übersicht.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Leveldesign"
+              "title": "To Do Übersicht"
             }
           },
           {
@@ -25,12 +37,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Mechanik/Aktionen.md",
+                "file": "GDD/Mechanik/Leveldesign.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Aktionen"
+              "title": "Leveldesign"
             }
           },
           {
@@ -39,12 +61,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Mechanik/0 Zielsetzung.md",
+                "file": "GDD/To Do Übersicht.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "0 Zielsetzung"
+              "title": "To Do Übersicht"
+            }
+          },
+          {
+            "id": "fa117522b68af1ec",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "GDD/Mission Statement/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "6e398c43d7031b95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Besprechen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Besprechen"
             }
           }
         ],
@@ -54,15 +130,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "27305fceb7ebe333",
+    "id": "ebf98d9d825a6558",
     "type": "split",
     "children": [
       {
-        "id": "6c00b86e7700a7b9",
+        "id": "477c86a90c396cdf",
         "type": "tabs",
         "children": [
           {
-            "id": "5ffe7b429a896618",
+            "id": "b88fb9fc60210c55",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +153,7 @@
             }
           },
           {
-            "id": "5dfe96c9ebb01608",
+            "id": "dfccd9d15798f8a7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +170,7 @@
             }
           },
           {
-            "id": "1e3a83fd0708d171",
+            "id": "e53a5448f4f18719",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,23 +181,47 @@
               "icon": "lucide-bookmark",
               "title": "Lesezeichen"
             }
+          },
+          {
+            "id": "84a6de2f0933963c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-03"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.1000061035156
   },
   "right": {
-    "id": "bfe4ab012d234fcd",
+    "id": "2ca7565e4ff7a8d7",
     "type": "split",
     "children": [
       {
-        "id": "9f33497cc34985cd",
+        "id": "4cd0f19089f20f24",
         "type": "tabs",
         "children": [
           {
-            "id": "f02c9f825e72d200",
+            "id": "26cc2bed058edc51",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -140,12 +240,12 @@
             }
           },
           {
-            "id": "01caf44de3dcbb81",
+            "id": "43f3c94cca8dd66d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDD/Mechanik/Screens.md",
+                "file": "Willkommen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +254,7 @@
             }
           },
           {
-            "id": "9ca18fb1f0dd0c7d",
+            "id": "da3597e51ab2ef30",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,7 +269,7 @@
             }
           },
           {
-            "id": "870c8c933a8f9a7a",
+            "id": "2371cb9ac5186a38",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -183,18 +283,18 @@
             }
           },
           {
-            "id": "2be804398771ae2d",
+            "id": "e3950d6a644a45d5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/Mechanik/Aktionen.md",
+                "file": "GDD/Mechanik/Figuren.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Outline"
             }
           }
         ],
@@ -202,7 +302,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,41 +316,52 @@
       "bases:Neue Base erstellen": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "2a9cc16fca080941",
   "lastOpenFiles": [
     "GDD/Mechanik/0 Zielsetzung.md",
+    "Unbenannt.canvas",
+    "2026-11-03.md",
+    "Bilder/Moodboard Level Design Swamp.png",
+    "Bilder/Gegner Endboss Gitterbauch.jpg",
+    "Bilder/Gegner Cauldron.jpg",
+    "Bilder/Gameplay view Hades.jpg",
+    "Bilder/Gameplay View Cult of the Lamb.png",
+    "Bilder/Gameplay Overlay Skizze.png",
+    "Bilder/Fabis Menü Entwurf1.png",
+    "GDD/Mechanik/Leveldesign.md",
+    "GDD/To Do Übersicht.md",
+    "Bilder/Moodboard Benita Charon.png",
+    "Bilder/Gegner Große Hände.jpg",
+    "Bilder/Gegner Skelett.png",
     "GDD/Mechanik/Figuren.md",
+    "Excalidraw/Hud.md",
     "GDD/Mechanik/Fähigkeiten.md",
     "GDD/Besprechen.md",
-    "GDD/Mechanik/Leveldesign.md",
-    "GDD/Mechanik/Motivation.md",
+    "GDD/Mission Statement/Untitled Kanban.md",
     "GDD/Mechanik/Screens.md",
+    "GDD/Steuerung.md",
+    "Excalidraw/Drawing 2026-11-03 06.11.01.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-03 06.10.55.excalidraw.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Excalidraw",
     "GDD/Mechanik/Balancing.md",
-    "GDD/Mechanik/Aktionen.md",
-    "Zeug/Ideen für Gameplay.md",
+    "GDD/Gameloops.md",
     "GDD/Farbschema.md",
+    "GDD/Tutorial.md",
+    "GDD/GUi.md",
     "GDD/Cutscenes.md",
     "GDD/0Deckblatt.md",
-    "Unbenannt.canvas",
-    "Untitled.base",
-    "GDD/Gameloops.md",
-    "GDD/Steuerung.md",
-    "GDD/Tutorial.md",
+    "GDD/Mechanik/Motivation.md",
+    "GDD/Mechanik/Aktionen.md",
+    "Zeug/Ideen für Gameplay.md",
     "GDD/Mission Statement/Essenz.md",
     "GDD/Mission Statement/Kurzfassung.md",
-    "GDD/Mission Statement/Zielgruppenbeschreibung.md",
-    "GDD/Mission Statement/Win-Conditions.md",
-    "GDD/GUi.md",
-    "Pasted image 20261029222230.png",
-    "Pasted image 20261029222635.png",
-    "GDD/Lore/Story Beats.md",
-    "Zeug/Combat System.md",
-    "Seelen & Obolus.md",
-    "Zeug/to Do.md",
-    "Zeug/Level Selection UI.md",
     "Zeug/Mind Map.canvas",
     "GDD/Basic Loop.canvas",
     "GDD---Charon",
@@ -259,8 +371,6 @@
     "GDD/Mechanik",
     "Unbenannt.base",
     "GDD/Mission Statement/Zielgruppe",
-    "GDD/Mission Statement",
-    "GDD",
-    "Zeug"
+    "GDD/Mission Statement"
   ]
 }

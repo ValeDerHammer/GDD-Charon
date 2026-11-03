@@ -34,7 +34,6 @@
 
 uzmzumzm
 
-
 # Der Tod 
 
 - Als Körperlose Entität/Einfach umgesetztes Mesh, die dem Spieler zu Beginn in einem Dialog alle nötige Lore mitteilt und durchs Tutorial führt
@@ -43,6 +42,8 @@ uzmzumzm
 # Gegner
 
 - Manifestierte Struggle der Seele, die sie noch an die Welt der Lebenden binden
+- Verlorene Seelen, die die innere Unruhe der Seele spüren und sie davon abhalten wollen, es safe in die Unterwelt zu schaffen, Rage-Revenge
+- Sind selbst "verunreinigte ehemalige Seelen" -> wollen Seele mit zu sich in den Abgrund ziehen
 ## Gegner-Stats
 
 - Visuell: Leben
@@ -52,18 +53,37 @@ uzmzumzm
 	- ~~DMG Zahlen sichtbar on screen~~
 
 ## Gegnertypen
-### Cauldron
+### Steaming Cauldron
 
-- Schwebender Kessel 
+- Angriffstyp:
+- Schwebend
 - Einordnung in Lore: 
+
+ ![[Gegner Cauldron.jpg|253]]
+
+
 ### Geist mit großen Händen
 
-Charger mit Aufladen
+- Angriffstyp: Charger mit Aufladen (bsp. Handclap)
+- Einordnung in Lore: Geist
+
+![[Gegner Große Hände.jpg|228]]
+
 ### Gegner 3
 
+- Angriffstyp: 
+- Einordnung in Lore: 
 ### Skelett
 
+- Angriffstyp
 - Bestehendes Asset nutzen (von Gamedev.tv, Designer: Grant Abbit)
+- Einordnung in Lore: 
+
+![[Gegner Skelett 1.png|293]]
 ### Endboss: Gitterbauch 
 
-(später: Möglichkeit Seelenklau)
+- Angriffstyp
+- Einordnung in Lore: 
+- ==🔴Risiko, Seele zu verlieren -> Möglichkeit Seelenklau==
+
+![[Gegner Endboss Gitterbauch.jpg|234]]

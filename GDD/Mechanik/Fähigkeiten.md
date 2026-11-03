@@ -10,16 +10,17 @@
 - **Spieler steuert Angriffe**, Charon verursacht die Seelen-Angriffe nur visuell durch die Seele/Laterne
 - Wird zugewiesen, pro Level nicht wählbar, was aktiv ist
 - Individueller Skill pro Seele
-- Beeinflusst [[#Bindung]]
+- ==🟡Beeinflusst [[#Bindung]]==
 - **Möglichkeiten:** 
-	- 
-
-==🟡Farbzuweisung möglich: Obolus vs Seele, da beide aus Laterne kommen: Abgrenzung nötig! Vor allem wenn nur Seele zu Bindung beiträgt!! Bsp: Obolus lila, Seele blau==
-
----
-	- Projektil
-	- Enterhaken
-	- Gegner wegdrücken (???)
+	- ✅ Seelenbombe (Obolus)
+	- ✅ Seelen Boomerang (Seele)
+	- ✅ Druckwelle Sounds (Schaden + wegdrücken) (Obolus)
+	- ✅ Enterhaken (Seele)
+		- (Roadhog, sich an große Gegner dranzippen bzw. kleine zu sich herholen)
+	- ==🔴Blitze, Kettenblitz==
+	- ==🔴Pfeil/Projektil, Verfolgung==
+	- ==🔴Schild==
+	- ==🔴Saugender Void der Gegner anzieht==
 
 ## Obolus - Fähigkeit
 
@@ -27,6 +28,7 @@
 - Alte Seelen-Fähigkeit festgehalten = Archiviert für weitere Nutzung
 - Beeinflusst [[#Bindung]] NICHT
 - ==🔴Möglichkeit in Kombination verschiedene Kombi-DMG Arten zu erreichen==
+- Wichtig: Farbliche Abtrennung zu Seele, da beide aus der Laterne kommen, va wenn nur Seelenangriff Bindung beeinflusst
 
 ## Bindung
 
@@ -49,7 +51,7 @@
 - Fürs Erste: Schaden ist Schaden, keine verschiedenen Arten/Kombinationen
 ### Heilung
 
-- Heiltrank heilt Hälfte, max. 3 (heilen dann halt mehr)
+- Heiltrank heilt Hälfte Leben, max. 3 
 - Muss für Heilung Stehenbleiben, geht nicht wenn man angreift oder angegriffen wird
 ### Spieler-Ausdauer
 

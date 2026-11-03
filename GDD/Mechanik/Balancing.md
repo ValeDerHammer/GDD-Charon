@@ -3,10 +3,8 @@
 
 ## Kampf-Raumdesign
 
-==🟡[[Leveldesign#Kampfraum]] Gegner Spawn verhalten, wie viele pro Raum etc.==
-==🟡Spawnen in Wellen - wenn ja, wie (visueller Hinweis vor Spawnen?) und wo spawnen sie?==
-
-Gegner: Feste Position, keine neuen Gegner kommen dazu
+- [[Leveldesign#Kampfraum]] Gegner Spawn verhalten, wie viele pro Raum etc. Spawnen in Wellen - wenn ja, wie (visueller Hinweis vor Spawnen?) und wo spawnen sie?
+- Gegner haben **Feste Position**, keine neuen Gegner kommen dazu
 ## Angriffspatterns
 
 Laufgeschwindigkeit von Spielern und Gegnern
@@ -29,7 +27,8 @@ Bindung
 ## Fortschritt
 
 - Checkpoints im Level erreichen und freischalten [[Leveldesign#Pauseraum Lebensbrunnen]]
-- Erhalt neuer Fähigkeiten gibt mehr Möglichkeiten ein Level zu beenden + mit Hindernissen/Gegnern umzugehen
+- Bindung entfachen
+- Erhalt neuer Fähigkeiten gibt mehr Möglichkeiten ein Level zu beenden + damit Hindernissen/Gegnern umzugehen
 - [[Motivation#Lebensbrunnen]]
 
 ## Belohnung
