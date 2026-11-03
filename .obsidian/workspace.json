@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Mechanik/Leveldesign.md",
+                "file": "GDD/Mechanik/Figuren.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Leveldesign"
+              "title": "Figuren"
             }
           },
           {
@@ -27,12 +37,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Besprechen.md",
+                "file": "GDD/Mechanik/Leveldesign.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Besprechen"
+              "title": "Leveldesign"
             }
           },
           {
@@ -41,16 +61,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Mechanik/0 Zielsetzung.md",
+                "file": "GDD/To Do Übersicht.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "0 Zielsetzung"
+              "title": "To Do Übersicht"
+            }
+          },
+          {
+            "id": "fa117522b68af1ec",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "GDD/Mission Statement/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "6e398c43d7031b95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Besprechen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Besprechen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,12 +180,36 @@
               "icon": "lucide-bookmark",
               "title": "Lesezeichen"
             }
+          },
+          {
+            "id": "84a6de2f0933963c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-03"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.1000061035156
   },
   "right": {
     "id": "2ca7565e4ff7a8d7",
@@ -190,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/Besprechen.md",
+                "file": "GDD/Mechanik/Figuren.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,7 +301,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,41 +315,53 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2a9cc16fca080941",
+  "active": "7f52240ed7eb75c6",
   "lastOpenFiles": [
-    "GDD/Mechanik/Leveldesign.md",
-    "GDD/Mechanik/Motivation.md",
-    "GDD/Besprechen.md",
-    "GDD/Mechanik/Figuren.md",
+    "Gegner Skelett 1.png",
+    "Gegner Skelett.png",
+    "Gegner Cauldron.jpg",
+    "Gegner Große Hände.jpg",
+    "Gegner Endboss Gitterbauch.jpg",
     "GDD/Mechanik/Fähigkeiten.md",
+    "GDD/To Do Übersicht.md",
+    "GDD/Besprechen.md",
+    "GDD/Mission Statement/Untitled Kanban.md",
     "GDD/Mechanik/Screens.md",
+    "GDD/Mechanik/Leveldesign.md",
     "GDD/Mechanik/0 Zielsetzung.md",
+    "GDD/Steuerung.md",
+    "2026-11-03.md",
+    "Bilder/Pasted image 20261021092556.png",
+    "Excalidraw/Drawing 2026-11-03 06.11.01.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-03 06.10.55.excalidraw.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Excalidraw",
     "GDD/Mechanik/Balancing.md",
-    "GDD/Mechanik/Aktionen.md",
-    "Zeug/Ideen für Gameplay.md",
+    "GDD/Gameloops.md",
     "GDD/Farbschema.md",
+    "GDD/Tutorial.md",
+    "GDD/GUi.md",
     "GDD/Cutscenes.md",
     "GDD/0Deckblatt.md",
+    "GDD/Mechanik/Motivation.md",
+    "GDD/Mechanik/Figuren.md",
+    "Moodboard Level Design Swamp.png",
+    "Moodboard Benita Charon.png",
+    "Gameplay Overlay Skizze.png",
+    "Fabis Menü Entwurf1.png",
+    "Gameplay View Cult of the Lamb 1.png",
+    "GDD/Mechanik/Aktionen.md",
+    "Zeug/Ideen für Gameplay.md",
     "Unbenannt.canvas",
-    "Untitled.base",
-    "GDD/Gameloops.md",
-    "GDD/Steuerung.md",
-    "GDD/Tutorial.md",
     "GDD/Mission Statement/Essenz.md",
     "GDD/Mission Statement/Kurzfassung.md",
     "GDD/Mission Statement/Zielgruppenbeschreibung.md",
-    "GDD/Mission Statement/Win-Conditions.md",
-    "GDD/GUi.md",
-    "Pasted image 20261029222230.png",
-    "Pasted image 20261029222635.png",
-    "GDD/Lore/Story Beats.md",
-    "Zeug/Combat System.md",
-    "Seelen & Obolus.md",
-    "Zeug/to Do.md",
-    "Zeug/Level Selection UI.md",
     "Zeug/Mind Map.canvas",
     "GDD/Basic Loop.canvas",
     "GDD---Charon",
@@ -261,8 +371,6 @@
     "GDD/Mechanik",
     "Unbenannt.base",
     "GDD/Mission Statement/Zielgruppe",
-    "GDD/Mission Statement",
-    "GDD",
-    "Zeug"
+    "GDD/Mission Statement"
   ]
 }
