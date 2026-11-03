@@ -4,7 +4,6 @@
 - **Seelen-Skill:** aktiver Combat Skill (DMG/Defense), individuell anders pro Seele
 - **Obolus-Skill:** ehem. Seelen-Skill, Durch Archivierung Kombination möglich
 - Cooldown in Sekunden 
-
 ## Seelen-Skill / Kampf mit Seele
 
 - **Spieler steuert Angriffe**, Charon verursacht die Seelen-Angriffe nur visuell durch die Seele/Laterne
@@ -26,7 +25,7 @@
 
 - Endboss-Loot 
 - Alte Seelen-Fähigkeit festgehalten = Archiviert für weitere Nutzung
-- Beeinflusst [[#Bindung]] NICHT
+- ==🟡Beeinflusst [[#Bindung]] NICHT==
 - ==🔴Möglichkeit in Kombination verschiedene Kombi-DMG Arten zu erreichen==
 - Wichtig: Farbliche Abtrennung zu Seele, da beide aus der Laterne kommen, va wenn nur Seelenangriff Bindung beeinflusst
 

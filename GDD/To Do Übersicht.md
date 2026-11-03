@@ -23,36 +23,39 @@ Fabi: Menüdesign + Implementierung
 
 ------------------------------------------------------------------------------
 
-Vale: 
+Vale: basically alles bei [[#Figuren und Assets]]
 - Playable Character Design + Mesh
 - Playable Character Animationen
-- 
+- Assets: Seele + Laterne + Heiltrank + Schwert
+- 4 Skills Designen + Animieren
+- 3 Gegner-Typen meshen und 4 animieren
+- Siehe [[Figuren]] und [[#Figuren und Assets]]
 
-Fynn: 
+Fynn: siehe [[#Code]]
 - Dash 
 - Schadens- & HP-System, inkl. Gegner Angriff
 - Interaktions Mechanic
 - Gegner KI 
 - Projekt Refactoren (Übersichtlicher, Kommentare)
 
-
-Tobi: 
+Tobi: siehe [[#Code]]
 - Szenen-Wechseln
 - Laden von Levelumgebung und Gegnern (Spawnobjekt) + Benita
 - Skill System (Kombi Fynn)
 - Speicherstände
 
-Benita: 
+Benita: basically alles bei [[#Level Design + Environment]] und [[#Story-Aspekte]]
 - Level Skizze Design 
-- Level Assets
-- Level Aufbau
-- Bindungssystem
-- Story-Einführung
+- Level Assets 
+- Level Aufbau siehe [[Leveldesign]]
+- Gegner Cauldron Meshen + animieren
+- Code: Bindungssystem
+- Story-Einführung (in Kombi mit Fabi)
 
-Fabi: 
+Fabi: basically alles bei [[#Menüs & Screens]]
 - Startmenü (Spiel starten, Einstellungen, Spiel Verlassen) ansehnlich + klickbar machen
-- Gesamte Menüführung und Game-Overlay
-
+- Gesamte Menüführung siehe [[Screens]] und [[#Menüs & Screens]]
+- Game-Overlay - Für jeden Stat einen vollen z.B. Health-Bar/etc. als .png und einen leeren
 
 ---
 # Figuren und Assets
@@ -134,16 +137,16 @@ Zu Jedem Gegner gehört: Mesh, Textur, Riggen, 1 Angriff-Animation, 1 kurze Wird
 
 - Schriftarten: Titel, Infotext, 2te kleinere Überschrift für bsp. Seelen-/Skill-Namen
 	- Startmenü (Spiel starten, Einstellungen, Spiel Verlassen)
-	- Einführung in Lore/Story/Cutscene vor Seelen-Wahl
-	- Seelen/Level Auswahl (später: Rumlaufen Interaktion)
+	- Einführung in Lore/Story/Cutscene bei Seelen-Zuweisung
+	- Seelen/Level Zuweisung Szene
 	- Auswahlmenü für Oboli (Umsetzung mby per Drag & Drop)
-	- Loading-Bar
+	- Loading-Bar fürs Level-Laden
 	- Im Level: 
 		- ESC Pausenmenü geteilt in Technisch (Weiter spielen, Einstellungen, Verlassen) 
 		und Level-Stats (Kurzbeschr Eigenschaften Seele + Obolus)
 		- Todes-Screen 
 		- Win Screen (Erhalt von Obolus, Dank der Seele)
-		- Generelles Game-Overlay: Sichtbare Healthbar, Bindung (füllt sich / sinkt radikal auf 0), Ausdauer, 2 Skill Cooldowns (nur visuell, ohne zahlen)
+		- Generelles Game-Overlay: Sichtbare Healthbar, Bindung (füllt sich / sinkt radikal auf 0), Ausdauer, 2 Skill Cooldowns (nur visuell, ohne zahlen) - Für jeden Stat einen vollen z.B. Health-Bar/etc. als .png und einen leeren
 	
 	- Einstellungen: Grafik/Anzeige, Gesamtlautstärke + Sound + Musik-Lautstärke, Steuern (Custom Tastenbelegung), Blickrichtung Spieler Rotation to Mouse/Laufsteuerung änderbar
 
@@ -187,6 +190,7 @@ Einstellungen umsetzen
 ## Story-Aspekte
 
 - WIE vermitteln?
+- Seele Zuordnung zu 
 - Zu Beginn Dialog mit dem Tod? Charakter Design - wie stellen wir ihn dar?
 - Ganz kleiner Dialog - Seele Charon
 - Seelen Auswahl + Einführung, Story, Tod, Lore vermitteln

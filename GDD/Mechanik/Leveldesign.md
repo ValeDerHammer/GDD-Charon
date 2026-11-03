@@ -10,10 +10,10 @@
 - Character Fokussierung der Kamera
 - Raum ist größer als Kamera-Blickfeld
 - **Raumübergang & Aufbau**: visuelle Abgrenzung innerhalb begehbarer Struktur, aber gesamtes Level mit allen Raum-Szenen soll falls möglich bereits geladen sein 
+- Bildschirm zwischen Räumen kurz dunkel werden lassen
 
 
 ![[Gameplay view Hades.jpg|536]]
-
 
 
 ![[Gameplay View Cult of the Lamb.png|548]]
@@ -85,6 +85,7 @@
 - Origin der Game Assets zum auf Szene setzen an den Boden (Clipping)
 	- Edit mode , Plane selection, Shift + S, 3d cursor to selected, Objekt Mode, Origin to 3d cursor
 - Collision Shapes adden, Grundform des Objekts
+- Als .fbx exportieren
 
 
 - Boden (+ Textur?)

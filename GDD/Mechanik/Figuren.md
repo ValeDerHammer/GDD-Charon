@@ -12,6 +12,8 @@
 	- Heiltrank
 	- Schwebende Laterne mit Seele + Obolus
 
+![[Charon.png|323]]
+
 ## Spieler Stats
 
 - **Visuell**: Alles kompakt und gut sichtbar in einer linken Ecke, generell keine Zahlen sondern visuell arbeiten. Muss alles Depleten und adden können
@@ -29,6 +31,8 @@
 - **Zuweisung**: Vor Eintritt in Dungeon, Interaktion am Steg [[Leveldesign# Beginn: Erhalt der Seele]]
 - **Markante Merkmale:** 
 	- Leuchtender "Feuerähnlicher"-Ball
+
+![[Seele.jpg|118]]
 
 ## Einbau & Bedeutung der Seele
 

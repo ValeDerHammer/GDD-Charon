@@ -8,12 +8,34 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f47af1951bf19696",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "GDD/Mission Statement/Kanban Benita.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Kanban Benita"
+            }
+          },
+          {
             "id": "7f52240ed7eb75c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Mechanik/Figuren.md",
+                "file": "GDD/Mechanik/Fähigkeiten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +50,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Figuren"
+              "title": "Fähigkeiten"
             }
           },
           {
-            "id": "2a9cc16fca080941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Mechanik/Leveldesign.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Leveldesign"
-            }
-          },
-          {
-            "id": "f47af1951bf19696",
+            "id": "fa117522b68af1ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,32 +78,12 @@
             }
           },
           {
-            "id": "fa117522b68af1ec",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "GDD/Mission Statement/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "6e398c43d7031b95",
+            "id": "1805110dd33b451e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Besprechen.md",
+                "file": "GDD/To Do Übersicht.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,10 +98,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Besprechen"
+              "title": "To Do Übersicht"
+            }
+          },
+          {
+            "id": "6e398c43d7031b95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Mechanik/Screens.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Screens"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,30 +182,6 @@
               },
               "icon": "lucide-bookmark",
               "title": "Lesezeichen"
-            }
-          },
-          {
-            "id": "84a6de2f0933963c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-11-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-11-03"
             }
           }
         ]
@@ -287,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/Mechanik/Figuren.md",
+                "file": "GDD/Mechanik/Leveldesign.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -319,49 +298,49 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7f52240ed7eb75c6",
+  "active": "1805110dd33b451e",
   "lastOpenFiles": [
-    "Excalidraw/Hud.md",
-    "Gegner Skelett 1.png",
-    "Gegner Skelett.png",
-    "Gegner Cauldron.jpg",
-    "Gegner Große Hände.jpg",
-    "Gegner Endboss Gitterbauch.jpg",
-    "GDD/Mechanik/Fähigkeiten.md",
-    "GDD/To Do Übersicht.md",
-    "GDD/Besprechen.md",
-    "GDD/Mission Statement/Untitled Kanban.md",
-    "GDD/Mechanik/Screens.md",
     "GDD/Mechanik/Leveldesign.md",
-    "GDD/Mechanik/0 Zielsetzung.md",
-    "GDD/Steuerung.md",
-    "2026-11-03.md",
-    "Bilder/Pasted image 20261021092556.png",
-    "Excalidraw/Drawing 2026-11-03 06.11.01.excalidraw.md",
+    "GDD/To Do Übersicht.md",
+    "Story-Aspekte.md",
+    "GDD/Mechanik/Figuren.md",
+    "GDD/Mechanik/Screens.md",
+    "GDD/Mechanik/Fähigkeiten.md",
+    "GDD/Mission Statement/Kanban Benita.md",
     "Excalidraw/Drawing 2026-11-03 06.10.55.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-03 06.11.01.excalidraw.md",
+    "Excalidraw/Hud.md",
+    "GDD/Mechanik/0 Zielsetzung.md",
+    "GDD/Farbschema.md",
+    "GDD/Gameloops.md",
+    "GDD/Cutscenes.md",
+    "GDD/Besprechen.md",
+    "GDD/0Deckblatt.md",
+    "Bilder/Charon.png",
+    "Bilder/Moodboard Benita Charon.png",
+    "Seele.jpg",
+    "Unbenannt.canvas",
+    "Bilder/Fabis Menü Entwurf1.png",
+    "2026-11-03.md",
+    "Bilder/Gegner Skelett.png",
+    "Bilder/Gegner Skelett 1.png",
+    "Bilder/Gameplay Overlay Skizze.png",
+    "Bilder/Moodboard Level Design Swamp.png",
+    "Bilder/Gegner Große Hände.jpg",
+    "Bilder/Gegner Endboss Gitterbauch.jpg",
+    "GDD/GUi.md",
+    "GDD/Steuerung.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
     "Excalidraw",
     "GDD/Mechanik/Balancing.md",
-    "GDD/Gameloops.md",
-    "GDD/Farbschema.md",
     "GDD/Tutorial.md",
-    "GDD/GUi.md",
-    "GDD/Cutscenes.md",
-    "GDD/0Deckblatt.md",
     "GDD/Mechanik/Motivation.md",
-    "GDD/Mechanik/Figuren.md",
-    "Moodboard Level Design Swamp.png",
-    "Moodboard Benita Charon.png",
-    "Gameplay Overlay Skizze.png",
-    "Fabis Menü Entwurf1.png",
     "GDD/Mechanik/Aktionen.md",
     "Zeug/Ideen für Gameplay.md",
-    "Unbenannt.canvas",
     "GDD/Mission Statement/Essenz.md",
     "GDD/Mission Statement/Kurzfassung.md",
-    "GDD/Mission Statement/Zielgruppenbeschreibung.md",
     "Zeug/Mind Map.canvas",
     "GDD/Basic Loop.canvas",
     "GDD---Charon",

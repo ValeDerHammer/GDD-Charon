@@ -3,6 +3,5 @@
  - ==🔴Neid - grün==
 
 # Moodboards
-### Moodboard Charon / Charakter
 
-![[Pasted image 20261021092556.png]]
+![[Moodboard Benita Charon.png]]

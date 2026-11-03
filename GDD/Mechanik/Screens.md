@@ -11,12 +11,13 @@
 # Level-Auswahl + Obolus
 
 - "Spiel starten" führt direkt zu Seelen-Auswahl-Szene
-- Soll **Interagierbar** sein -> Durch Seelen-Statuen durchklicken
+- ==🔴Soll **Interagierbar** sein -> Durch Seelen-Statuen durchklicken==
 - **Setting**: Nebelige Szene mit 2 Stegen, pro Steg ein hoher Felsen ==🔴(charakteristische Form/Statue)== mit je einer Seele = wählbares Level
 - **Umsetzung fürs Erste**: 
-	- Klick-Screen (Auswahl zwischen den Seelen) mit mgl. Dialog/Kurzbeschr. Seele
+	- ==🔴Klick-Screen (Auswahl zwischen den Seelen) mit mgl. Dialog/Kurzbeschr. Seele==
 	- Feste Auswahl der Seele
-	- Weiterführender Klick-Screen: Wahl der Obolus-Coins ==🟡(per Drag & Drop)== mit Skill-Beschreibung
+	- Animation: Seele in Laterne, Charon fährt mit Seele ins Level
+	- Weiterführender Klick-Screen: Wahl der Obolus-Coins mit Skill-Beschreibung
 	- Anschließende Cutscene/Animation wie Seelen-Bulb in Laterne fliegt + Charon in Boot mit Seelen-Laterne ins Level fährt 
 
 - ==🔴Pro Seele eine Charakteristische Steinstatue, die Platz für visuelle Interaktion mit der Seele bietet im Sinne von: Hält eine Hand ausgestreckt, auf der die Seele vor dem Level sitzt==
